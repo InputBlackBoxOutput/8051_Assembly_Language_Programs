@@ -1,5 +1,6 @@
-This folder contains a .asm file. This file contains the assembly language code for 
-interfacing a stepper motor with an 8051 architecture microcontoller 
+This folder contains multiple .asm files. These files contain the assembly language 
+code for interfacing a stepper motor with an 8051 architecture microcontoller in 
+various stepping modes.  
 
 A .hex file can be generated and downloaded onto an AT89S52 uC. Pin connections have
 been specified in comments of the .asm file. Please note that the external crystal
