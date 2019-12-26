@@ -1,0 +1,6 @@
+This folder contains a .asm file. This file contains the assembly language code for 
+interfacing an 1602 LCD module and a 4x4 Keypad module with an 8051 architecture uC. 
+
+This folder also contains a .hex file which can be downloaded onto an AT89S52 uC. 
+Pin connections have been specified in comments of the .asm file. PLease note that 
+the external crystal frequency is 11.0592 MHz.
