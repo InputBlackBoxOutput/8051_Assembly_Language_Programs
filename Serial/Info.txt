@@ -1,0 +1,6 @@
+This folder contains multiple .asm files. These files contain the assembly language 
+code for serial communication with an 8051 architecture microcontoller 
+
+A .hex file needs to be generated in order to download it onto AT89S52.
+RX, TX and GND pins need to be connected to the PC with a DB9 connector 
+via MAX232.PLease note that the external crystal frequency is 11.0592 MHz.
