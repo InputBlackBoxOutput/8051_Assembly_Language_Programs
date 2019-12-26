@@ -1,7 +1,7 @@
 This folder contains a .asm file. This file contains the assembly language code for 
 interfacing a stepper motor with an 8051 architecture microcontoller 
 
-This folder also contains a .hex file which can be downloaded onto an AT89S52 uC. 
-Pin connections have been specified in comments of the .asm file. Please note that 
-the external crystal frequency is 11.0592 MHz and a stepper motor cannot be directly
-connected to the uC pins.
+A .hex file can be generated and downloaded onto an AT89S52 uC. Pin connections have
+been specified in comments of the .asm file. Please note that the external crystal
+frequency is 11.0592 MHz and a stepper motor cannot be directly connected to the uC 
+pins.
